@@ -10,5 +10,5 @@ A minimal node version of blackEye
     
 2: Execute the command below to start the tool
    
-   ``` > ./start.sh ```
+   ```  ./start.sh ```
     

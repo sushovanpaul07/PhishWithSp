@@ -15,4 +15,7 @@ Only for educational purposed to give a taste of ethical hacking to new minds
    ```  ./start.sh ```
    
 3: Copy the https:/......... link and add /facebook at then end and use it 
+
+
+4: Find the phished passwords in ./password.txt file
     

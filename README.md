@@ -1,5 +1,6 @@
 # PhishWithSp
 A minimal node version of blackEye
+
 Only for educational purposed to give a taste of ethical hacking to new minds
 
 
